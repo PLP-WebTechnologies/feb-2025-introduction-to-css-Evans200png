@@ -1,7 +1,7 @@
 /*page descrption*/
 body {
     font-family: Arial, sans-serif;
-    background-color: violet;
+    background-color:violet;
     margin: 0;
     padding: 0;
     align-items: center;
@@ -69,7 +69,7 @@ img {
 }
 /*footer styling*/
 footer {
-    background-color: e6e6fa;
+    background-color: #e6e6fa;
     color: white;
     text-align: center;
     padding: 10px;
@@ -95,6 +95,6 @@ footer {
     transform: scale(1.2);
     color: #0d8ddb;
   }
-.contact {
-    color: green;
-}
+  .contact {
+    color:green;
+  }
