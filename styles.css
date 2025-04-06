@@ -6,17 +6,21 @@ body {
     padding: 0;
     align-items: center;
     min-height: 100vh;
-},
+}
 /*all headings styling*/
 h1, h2, h3, h4, h5 {
     color:#555;
-}
+ }
+h1{
+  text-align: center;
+ } 
+
 /* Navigation Styles */
  nav {
      background-color: #e2a218;
     padding: 10px; 
     text-align: center; 
-}
+ }
 
 nav ul { 
     list-style: none; 
